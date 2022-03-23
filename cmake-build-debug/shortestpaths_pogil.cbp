@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="shortestpaths_pogil"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shortestpaths_pogil">
+				<Option output="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/shortestpaths_pogil.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 shortestpaths_pogil"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shortestpaths_pogil/fast">
+				<Option output="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/shortestpaths_pogil.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 shortestpaths_pogil/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/colours.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/dfs_traversal.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/dfs_traversal.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/example_graphs.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/example_graphs.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/graph.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/graph.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/heap_data.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/heap_data.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/main.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_path_data.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_path_data.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths_tester.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths_tester.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/vertex.cpp">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/vertex.h">
+			<Option target="shortestpaths_pogil"/>
+		</Unit>
+		<Unit filename="C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

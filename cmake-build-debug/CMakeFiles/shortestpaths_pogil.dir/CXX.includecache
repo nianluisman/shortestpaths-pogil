@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/example_graphs.h
+graph.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/graph.h
+
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/graph.h
+ostream
+-
+string
+-
+vector
+-
+map
+-
+
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/main.cpp
+iostream
+-
+graph.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/graph.h
+example_graphs.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/example_graphs.h
+shortest_paths.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths.h
+shortest_paths_tester.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths_tester.h
+
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_path_data.h
+graph.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/graph.h
+
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths.h
+graph.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/graph.h
+shortest_path_data.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_path_data.h
+
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths_tester.h
+shortest_paths.h
+C:/Users/Gebruiker/Documents/0.3 kwartiel 4/shortestpaths-pogil/shortest_paths.h
+

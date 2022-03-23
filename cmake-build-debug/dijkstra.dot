@@ -1,0 +1,34 @@
+digraph {
+	rankdir = LR;
+	node[shape=oval];
+	a[label="a\nd: 0"];
+	b[label="b\nd: 11"];
+	c[label="c"];
+	d[label="d"];
+	e[label="e"];
+	f[label="f"];
+	g[label="g\nd: 2"];
+	h[label="h"];
+
+	edge[dir = forward];
+	a -> b [penwidth=5, label="11"];
+	a -> g [penwidth=5, label="2"];
+	b -> c [style="dashed", label="15"];
+	b -> h [style="dashed", label="1"];
+	c -> b [style="dashed", label="1"];
+	c -> d [style="dashed", label="1"];
+	d -> c [style="dashed", label="2"];
+	d -> e [style="dashed", label="1"];
+	e -> d [style="dashed", label="7"];
+	e -> f [style="dashed", label="4"];
+	f -> h [style="dashed", label="1"];
+	f -> c [style="dashed", label="6"];
+	g -> b [style="dashed", label="9"];
+	g -> f [style="dashed", label="18"];
+	g -> h [style="dashed", label="5"];
+	h -> a [style="dashed", label="5"];
+	h -> b [style="dashed", label="3"];
+	h -> c [style="dashed", label="18"];
+	h -> d [style="dashed", label="16"];
+	h -> e [style="dashed", label="8"];
+}
